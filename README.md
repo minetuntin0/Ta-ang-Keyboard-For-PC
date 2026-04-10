@@ -49,5 +49,5 @@
 ---
 
 <div align="center">
-  Developed with 💚 by the <b>Ta'ang Digital Dictionary Team</b>
+  Developed with 💚 by the <b>Mine Tun Tin</b>
 </div>
