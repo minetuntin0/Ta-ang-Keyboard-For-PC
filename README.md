@@ -47,6 +47,7 @@
 အသုံးပြုရာတွင် အဆင်မပြေမှုများရှိပါက သို့မဟုတ် အကြံပေးလိုပါက ဤ Repository ၏ [Issues](../../issues) section တွင် ဝင်ရောက်ရေးသားနိုင်ပါသည်။
 
 ---
+"Download Ta'ang Keyboard PC"
 
 <div align="center">
   Developed with 💚 by the <b>Mine Tun Tin</b>
